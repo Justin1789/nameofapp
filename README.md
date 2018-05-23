@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Justin and my app does currently nothing to big. But it's planned as an website which collects
+data, register users, and customize itself for individual visitors.
+
 
 Things you may want to cover:
 
